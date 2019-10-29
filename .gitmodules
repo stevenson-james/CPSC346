@@ -1,3 +1,12 @@
 [submodule "CPSC346_Project4"]
 	path = CPSC346_Project4
 	url = https://github.com/stevenson-james/CPSC346_Project4.git
+[submodule "CPSC346_Project1"]
+	path = CPSC346_Project1
+	url = https://github.com/stevenson-james/CPSC346_Project1.git
+[submodule "CPSC346_Project2"]
+	path = CPSC346_Project2
+	url = https://github.com/stevenson-james/CPSC346_Project2
+[submodule "CPSC346_Project3"]
+	path = CPSC346_Project3
+	url = https://github.com/stevenson-james/CPSC346_Project3
